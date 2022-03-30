@@ -1,6 +1,6 @@
 # Pacman.github.io
 ## Pacman Exercise
-We started by creating a button (Add Pacman), that adds another pacman. We store the pacmen in an array, and each time we create a new pacman, we are pushing it on to the end of the array. We created another button (Start Game), that will make the pacmen start moving. The more you push this button the faster the pacmen move.
+We started by creating a button (Add Pacman), that adds another pacman. We store the pacmen in an array, and each time we create a new pacman, we are pushing it on to the end of the array. We created another button (Start Game), that will make the pacmen start moving. The more you push this button the faster the pacmen move. Future improvements of this project consists of using the other pacman.png files to react when the pacman hits the border of the page. 
 
 MIT License
 
